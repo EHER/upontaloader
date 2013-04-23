@@ -10,7 +10,7 @@ All you need is clone the repository and install dependencies using [Composer](h
 git clone git://github.com/EHER/upontaloader.git
 cd upontaloader
 curl -sS https://getcomposer.org/installer | php
-php compose.phar install
+php composer.phar install
 ```
 
 ##Using
